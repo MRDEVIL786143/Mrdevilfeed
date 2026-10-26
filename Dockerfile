@@ -7,9 +7,7 @@ RUN apt-get update && apt-get install -y \
     gnupg \
     unzip \
     libxi6 \
-    libgconf-2-4 \
     libnss3 \
-    libdbus-glib-1-2 \
     xdg-utils \
     --no-install-recommends
 
